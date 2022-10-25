@@ -2,7 +2,7 @@
 A 2D Printer made by KL25Z board and stepper motors, using CoreXY principle for the movement.
 
 
-Example videos while printing:
+Example videos of printing:
 
 https://drive.google.com/file/d/1fZDpGXrsbWQtQN3GZP1OkqTM34nSnP2T/view?usp=sharing
 
